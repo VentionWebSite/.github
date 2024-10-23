@@ -1,7 +1,7 @@
 <p align="center"><img width="300"  src="https://ibb.co/pQPCvp3">
 <h1 align= "center">Vention Company</h1>
 </p>
-<img src="https://ibb.co/5LXBgdk"></img>
+<img src="https://ibb.co/M7ZKctf"></img>
 
 <h1>Overview 🚀</h1>
 <p>  Our Company is radically changing the headhunting, recruitment and talent consulting business with a range of modern, innovative service lines designed to succeed in the new world of work.
